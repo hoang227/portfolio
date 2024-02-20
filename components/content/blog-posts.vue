@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="not-prose">
     <ul>
       <li
         v-for="post in posts"
