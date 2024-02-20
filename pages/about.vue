@@ -6,5 +6,3 @@
     />
   </article>
 </template>
-
-
