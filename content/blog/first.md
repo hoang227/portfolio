@@ -13,6 +13,7 @@ head:
       content: "© 2022 NuxtLabs"
     - name: "og:title"
       content: "this is an opengraph title"
+publishedAt: 2023-01-01 16:00
 ---
 
 # First post on our website
