@@ -1,3 +1,20 @@
+---
+title: "first post"
+description: "first post on my blog"
+head:
+  meta:
+    - name: "keywords"
+      content: "nuxt, vue, content"
+    - name: "robots"
+      content: "index, follow"
+    - name: "author"
+      content: "NuxtLabs"
+    - name: "copyright"
+      content: "© 2022 NuxtLabs"
+    - name: "og:title"
+      content: "this is an opengraph title"
+---
+
 # First post on our website
 
 ## Introduction
