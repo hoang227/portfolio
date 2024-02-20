@@ -19,6 +19,13 @@
           class="link"
         >projects</NuxtLink>
       </li>
+      <li>
+        <NuxtLink
+          to="/blog"
+          class="link"
+        >blog
+        </NuxtLink>
+      </li>
     </ul>
   </nav>
 </template>
