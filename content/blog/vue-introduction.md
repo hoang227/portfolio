@@ -6,6 +6,7 @@ head:
     - name: "og:image"
       content: /images/vue-logo.png
 publishedAt: 2024-01-01 19:00
+toc: true
 ---
 
 # Introduction to Vue 3
