@@ -40,6 +40,8 @@
 <script setup>
 const activeId = ref(null)
 onMounted(() => {
+  let elements = []
+
   const callback = (entries) => {
     for (const entry of entries) {
       if (entry.isIntersecting) {
@@ -52,13 +54,16 @@ onMounted(() => {
     root: null,
     threshold: 0.5
   })
+  setTimeout(() => {
 
-  const elements = document.querySelectorAll('h2', 'h3')
 
-  for (const element of elements) {
-    observer.observe(element)
-  }
+    const elements = document.querySelectorAll('h2', 'h3')
 
+    for (const element of elements) {
+      observer.observe(element)
+    }
+
+  }, 250)
   onBeforeUnmount(() => {
     for (const element of elements) {
       observer.unobserve(element)
