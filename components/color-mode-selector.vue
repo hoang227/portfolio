@@ -10,7 +10,7 @@
       @click="toggleMode"
       @mouseenter="showNextModeLabel = true"
       @mouseleave="showNextModeLabel = false"
-      class="hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-1 text-gray-500"
+      class="hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-1 text-gray-500 text-3xl md:text-base"
     >
       {{ nextModeIcon }}
     </button>
