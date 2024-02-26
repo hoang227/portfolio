@@ -1,6 +1,6 @@
 # portfolio - Nuxt 3 and Tailwind CSS
 
-![Development Status](https://img.shields.io/badge/status-complete-brightgreen)
+[![Development Status](https://img.shields.io/badge/status-complete-brightgreen)](https://github.com/hoang227/project-nuxt3-basics-portfolio)
 
 Welcome to my portfolio project! This website was developed using Nuxt 3 and styled with Tailwind CSS. The project follows the teachings of the Udemy course by [Piotr Jura](https://github.com/piotr-jura-udemy), providing a foundation for building modern and responsive web applications.
 
@@ -20,7 +20,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [Nuxt 3](https://v3.nuxtjs
 #### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/hoang227/portfolio.git
 ```
 
 #### Install the dependencies
