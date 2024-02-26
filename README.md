@@ -1,5 +1,7 @@
 # portfolio - Nuxt 3 and Tailwind CSS
 
+![Development Status](https://img.shields.io/badge/status-complete-brightgreen)
+
 Welcome to my portfolio project! This website was developed using Nuxt 3 and styled with Tailwind CSS. The project follows the teachings of the Udemy course by [Piotr Jura](https://github.com/piotr-jura-udemy), providing a foundation for building modern and responsive web applications.
 
 ## Features
